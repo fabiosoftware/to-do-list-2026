@@ -1,33 +1,57 @@
-# 📝 Lista de Tarefas (To-Do List) em Python
+# 📝 To-Do List PRO (Python)
 
-## 📖 Sobre o projeto
+## 🚀 Sobre o Projeto
 
-Sistema de lista de tarefas desenvolvido em Python com foco em organização, persistência de dados e boas práticas de programação.  
-Projeto criado para portfólio GitHub e demonstração de habilidades em lógica de programação e desenvolvimento backend básico.
+Aplicação de linha de comando (CLI) desenvolvida em Python para gerenciamento de tarefas, com persistência em arquivo JSON e sistema de filtros inteligentes.
+
+Este projeto foi construído com foco em boas práticas de programação, organização de código e simulação de um sistema real de produtividade.
+
+---
+
+## 🎯 Objetivo
+
+Demonstrar habilidades em:
+
+- Lógica de programação
+- Estruturação de projetos Python
+- Manipulação de dados (JSON)
+- Versionamento com Git/GitHub
+- Escrita de código limpo e funcional
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- Adicionar novas tarefas
-- Listar tarefas cadastradas
-- Marcar tarefas como concluídas
-- Remover tarefas
-- Persistência de dados em arquivo (salvamento automático)
+- ✅ Adicionar tarefas
+- 📋 Listar tarefas
+- ✔ Marcar tarefas como concluídas
+- ❌ Remover tarefas
+- 💾 Persistência de dados em JSON
+- 🔍 Filtros inteligentes:
+  - Tarefas pendentes
+  - Tarefas concluídas
+  - Filtro por prioridade
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🧠 Tecnologias Utilizadas
 
 - Python 3
-- Estruturas de dados (listas e dicionários)
-- Manipulação de arquivos
+- JSON (armazenamento de dados)
+- Git & GitHub (versionamento)
 - Programação procedural
 
 ---
 
-## ▶️ Como executar o projeto
+## 🗂 Estrutura do Projeto
+## ▶️ Como Executar
 
-1. Clone o repositório:
 ```bash
-git clone https://github.com/fabiocoelho/seu-repositorio.git
+# Clonar repositório
+git clone https://github.com/fabiosoftware/to-do-list-2026.git
+
+# Acessar pasta
+cd to-do-list-2026
+
+# Executar o sistema
+python main.py
