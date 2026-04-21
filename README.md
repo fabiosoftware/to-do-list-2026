@@ -44,6 +44,18 @@ Demonstrar habilidades em:
 ---
 
 ## 🗂 Estrutura do Projeto
+
+to-do-list-2026/
+│
+├── main.py        # Interface do usuário (menu CLI)
+├── tarefas.py     # Regras de negócio
+├── storage.py     # Leitura e escrita no JSON
+├── tarefas.json   # Banco de dados simples
+├── README.md
+└── .gitignore
+
+---
+
 ## ▶️ Como Executar
 
 ```bash
