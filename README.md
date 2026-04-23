@@ -1,24 +1,4 @@
-# 📝 To-Do List PRO (Python)
 
-## 🚀 Sobre o Projeto
-
-Aplicação de linha de comando (CLI) desenvolvida em Python para gerenciamento de tarefas, com persistência em arquivo JSON e sistema de filtros inteligentes.
-
-Este projeto foi construído com foco em boas práticas de programação, organização de código e simulação de um sistema real de produtividade.
-
----
-
-## 🎯 Objetivo
-
-Demonstrar habilidades em:
-
-- Lógica de programação
-- Estruturação de projetos Python
-- Manipulação de dados (JSON)
-- Versionamento com Git/GitHub
-- Escrita de código limpo e funcional
-
----
 
 ## ⚙️ Funcionalidades
 
